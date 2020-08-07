@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 - 🥅 My Goal is to learn and explore more about <b> Technology & Artificial Intelligence</b>.
 - 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
+
+### Connect with me:
+
+[<img align="left" alt="ShahzainAhmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ShahzainAhmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ShahzainAhmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ShahzainAhmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
