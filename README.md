@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ I am an <b> Microsoft Learn Student Ambassador.</b>
-- 🥅 My Goal is to Learn and Explore more about <b> Technology and open-source projects. </b>
-- 🌱 I’m currently improving and polishing my skills on <b> Web-Development and Graphic Designing.</b>
+- 🥅 My Goal is to Learn and Explore more about <b> Technology & open-source projects. </b>
+- 🌱 I’m currently improving and polishing my skills on <b> Web-Development & Graphic Designing.</b>
