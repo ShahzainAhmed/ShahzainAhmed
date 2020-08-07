@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ I am an <b> Microsoft Learn Student Ambassador</b>.
 - 📚 I am an <b> Microsoft Innovative Educator</b>. 
 - 🥅 My Goal is to learn and explore more about <b> Technology & Artificial Intelligence</b>.
-- 🔭 I’m currently working and learning <b> Database Management & MATLAB</b>.
+- 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
