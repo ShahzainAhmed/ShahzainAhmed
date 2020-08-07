@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ I am an <b> Microsoft Learn Student Ambassador.</b>
+- 🥅 2020 Goals: Learn and Explore more about Technology, and open-source projects.
+- 🌱 I’m currently improving and polishing my skills on <b> Web-Development & Graphic Designing.</b>
