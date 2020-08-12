@@ -3,7 +3,7 @@
 <!--
 **ShahzainAhmed/ShahzainAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 📚 I am an <b> Microsoft Innovative Educator</b>. 
+- 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>. 
 - 🥅 My Goal is to learn and explore more about <b> Technology & Artificial Intelligence</b>.
 - 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
