@@ -5,7 +5,9 @@
 
 - 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>. 
 - ✨ I am an <b> Microsoft Innovative Educator (MIE) Master Trainer</b>. 
-- 🎨 I am a <b> Director Graphic Design at Developer Student Clubs, MUET</b>. 
+- 💻 I am an <b> Microsoft Office Specialist.</b>.
+- 🌟 I am an <b> Microsoft Technology Associate.</b>.
+- 🎨 I am an<b> Director Graphic Design at Developer Student Clubs, MUET</b>. 
 - 🥅 My Goal is to learn and explore more and more about <b> Technology & Artificial Intelligence</b>.
 - 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
