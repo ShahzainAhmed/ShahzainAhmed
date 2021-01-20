@@ -3,6 +3,8 @@
 <!--
 **ShahzainAhmed/ShahzainAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+- 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>. 
+- 📖 I am an <b> Microsoft Certified Educator (MCE)</b>. 
 - 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>. 
 - ✨ I am an <b> Microsoft Innovative Educator (MIE) Master Trainer</b>. 
 - 💻 I am an <b> Microsoft Office Specialist.</b>.
