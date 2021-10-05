@@ -10,7 +10,7 @@
 - 💻 I am an <b> Microsoft Office Specialist.</b>.
 - 🌟 I am an <b> Microsoft Technology Associate.</b>.
 - 👨🏻‍🎨 I am the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society, MUET Jamshoro.</b>.
-- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs, MUET</b>. 
+- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs, MUET (2020-2021)</b>. 
 - 🥅 My Goal is to learn and explore more and more about <b> Technology & Artificial Intelligence</b>.
 - 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
