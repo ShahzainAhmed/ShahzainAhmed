@@ -15,6 +15,11 @@
 - 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
 
+### Professional Specialities:
+- 💥 <b> Languages: C++, Java, Python, SQL, MATLAB. </b>
+- 💥 <b> Graphic Designing: Adobe Illustrator. </b>
+- 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript. </b>
+
 ### Connect with me:
 
 [<img align="left" alt="ShahzainAhmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
