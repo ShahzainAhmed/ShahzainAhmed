@@ -17,7 +17,7 @@
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
 
 ### Professional Specialities:
-- 💥 <b> Languages: C++, Java, Python, SQL, MATLAB. </b>
+- 💥 <b> Languages: C++, Java, Python, Dart, SQL, MATLAB. </b>
 - 💥 <b> Graphic Designing: Adobe Illustrator. </b>
 - 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript. </b>
 
