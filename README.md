@@ -20,6 +20,7 @@
 - 💥 <b> Languages: C++, Java, Python, Dart, SQL, MATLAB. </b>
 - 💥 <b> Graphic Designing: Adobe Illustrator. </b>
 - 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript. </b>
+- 💥 <b> Mobile Application Development: Flutter. </b>
 
 ### Connect with me:
 
