@@ -3,24 +3,24 @@
 <!--
 **ShahzainAhmed/ShahzainAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>. 
-- 📖 I am an <b> Microsoft Certified Educator (MCE)</b>. 
-- 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>. 
-- ✨ I am an <b> Microsoft Innovative Educator (MIE) Master Trainer</b>. 
-- 💻 I am an <b> Microsoft Office Specialist</b>.
-- 🌟 I am an <b> Microsoft Technology Associate</b>.
-- 🖥️ I am the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>.
-- 👨🏻‍🎨 I am the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>.
-- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b>. 
-- 🥅 My Goal is to learn and explore more and more about <b> Technology & Artificial Intelligence</b>.
-- 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>.
-- 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>.
+- 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>
+- 📖 I am an <b> Microsoft Certified Educator (MCE)</b> 
+- 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>
+- ✨ I am an <b> Microsoft Innovative Educator (MIE) Master Trainer</b>
+- 💻 I am an <b> Microsoft Office Specialist</b>
+- 🌟 I am an <b> Microsoft Technology Associate</b>
+- 🖥️ I am the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>
+- 👨🏻‍🎨 I am the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
+- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
+- 🥅 My Goal is to learn and explore more and more about <b> Technology & Artificial Intelligence</b>
+- 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>
+- 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>
 
 ### Professional Specialities:
-- 💥 <b> Languages: C++, Java, Python, Dart, SQL, MATLAB. </b>
-- 💥 <b> Graphic Designing: Adobe Illustrator. </b>
-- 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript. </b>
-- 💥 <b> Mobile Application Development: Flutter. </b>
+- 💥 <b> Languages: C++, Java, Python, Dart, SQL, MATLAB</b>
+- 💥 <b> Graphic Designing: Adobe Illustrator </b>
+- 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript </b>
+- 💥 <b> Mobile Application Development: Flutter </b>
 
 ### Connect with me:
 
