@@ -13,7 +13,7 @@
 - 👨🏻‍🎨 I am the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
 - 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
 - 🥅 My Goal is to learn and explore more and more about <b> Technology</b>
-- 🔭 I’m currently learning and working on <b> Database Management & MATLAB</b>
+- 🔭 I’m currently learning and working on <b> Flutter </b>
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>
 
 ### Professional Specialities:
