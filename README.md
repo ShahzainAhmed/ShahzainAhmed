@@ -3,7 +3,7 @@
 <br>
 
 <br>
-<p align="center"> <img alt="Coder GIF" height=400 width=800 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
+<p align="center"> <img alt="Coder GIF" height=400 width=750 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
 <br>
 
 <!--
