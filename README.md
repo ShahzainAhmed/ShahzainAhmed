@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Shahzain Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">✨ Mobile Application Developer | Graphic Designer | Web-Developer ⚡</h3> 
+<h3 align="center">✨ Flutter Mobile Application Developer ⚡</h3> 
 
 <p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
 
