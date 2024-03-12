@@ -20,10 +20,8 @@
 - 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>
 
 ### Professional Specialities:
-- 💥 <b> Languages: C++, Java, Python, Dart, SQL, MATLAB</b>
-- 💥 <b> Graphic Designing: Adobe Illustrator, Adobe InDesign, Adobe Photoshop, Autodesk Sketchbook </b>
-- 💥 <b> Web Development: WordPress, HTML, CSS, Bootstrap, and JavaScript </b>
-- 💥 <b> Mobile Application Development: Flutter </b>
+- 💥 <b> Mobile Application Development: Flutter, Dart </b>
+- 💥 <b> Graphic Designing: Adobe Illustrator, Autodesk Sketchbook </b>
 
 ### Languages and Tools:
 
