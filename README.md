@@ -1,7 +1,15 @@
-<h1 align="center">Hello, I am Shahzain Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" style="margin-right: 10px;">
+  Hello, I am Shahzain Ahmed! 
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px" style="margin-left: 10px;">
+</h1>
+<!-- <h1 align="center">Hello, I am Shahzain Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 <h3 align="center">✨ Flutter Mobile Application Developer ⚡</h3> 
 
-<p align="center"> <img alt="Coder GIF" height=400 width=700 src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> </p>
+</p>
+<p align="center"> 
+  <img alt="Coder GIF" height="400" width="700" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> 
+</p>
 
 <!--
 **ShahzainAhmed/ShahzainAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -36,4 +44,17 @@
 <a href="https://www.behance.net/shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shahzainahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahzainahmed" height="30" width="40" /></a>
 <a href="https://dev.to/shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahzainahmed" height="30" width="40" /></a>
+</p>
+
+
+ 
+<!--
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+-->
+  
+<h3 align="center">Languages I have worked with</h3>
+
+<p align="center"> 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzainahmed"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
 </p>
