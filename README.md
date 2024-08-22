@@ -45,16 +45,3 @@
 <a href="https://medium.com/@shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahzainahmed" height="30" width="40" /></a>
 <a href="https://dev.to/shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahzainahmed" height="30" width="40" /></a>
 </p>
-
-
- 
-<!--
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
--->
-  
-<h3 align="center">Languages I have worked with</h3>
-
-<p align="center"> 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzainahmed"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
-</p>
