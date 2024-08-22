@@ -10,22 +10,22 @@
 - 📖 I am an <b> Microsoft Certified Educator (MCE)</b> 
 - 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>
 - ✨ I am an <b> Microsoft Innovative Educator (MIE) Master Trainer</b>
-- 💻 I am an <b> Microsoft Office Specialist</b>
-- 🌟 I am an <b> Microsoft Technology Associate</b>
-- 🖥️ I am the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>
-- 👨🏻‍🎨 I am the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
+- 💻 I am an <b> Microsoft Office Specialist (MOS)</b>
+- 🌟 I am an <b> Microsoft Technology Associate (MTA)</b>
+- 🖥️ I was the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>
+- 👨🏻‍🎨 I was the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
 - 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
 - 🥅 My Goal is to learn and explore more and more about <b> Technology</b>
-- 🔭 I’m currently learning and working on <b>  Mobile Application Development on Flutter </b>
-- 🌱 I’m trying to improve and polish my skills on <b> Web-Development & Graphic Designing</b>
+- 🔭 I’m currently working as a <b>  Mobile Application Development on Flutter </b>
+- 🌱 I’m trying to improve and polish my skills on <b> Flutter Mobile App Development</b>
 
 ### Professional Specialities:
 - 💥 <b> Mobile Application Development: Flutter, Dart </b>
-- 💥 <b> Graphic Designing: Adobe Illustrator, Autodesk Sketchbook </b>
+- 💥 <b> Graphic Designing: Adobe Illustrator, Adobe XD, Figma </b>
 
 ### Languages and Tools:
 
-<p align="left"> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+<p align="left"> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
 ### Connect with me:
 
