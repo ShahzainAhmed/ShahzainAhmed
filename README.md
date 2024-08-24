@@ -45,3 +45,11 @@ Hello, I am Shahzain Ahmed!
 <a href="https://medium.com/@shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahzainahmed" height="30" width="40" /></a>
 <a href="https://dev.to/shahzainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shahzainahmed" height="30" width="40" /></a>
 </p>
+
+<hr>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shahzainahmed&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shahzainahmed&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
+
+</p>
