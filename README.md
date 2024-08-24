@@ -1,7 +1,7 @@
 <h1 align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" style="margin-right: 10px;">
-  Hello, I am Shahzain Ahmed! 
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px" style="margin-left: 10px;">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px" style="margin-right: 10px;">
+Hello, I am Shahzain Ahmed! 
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"height="100px" width="100px"  style="margin-left: 10px;">
 </h1>
 <!-- <h1 align="center">Hello, I am Shahzain Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 <h3 align="center">✨ Flutter Mobile Application Developer ⚡</h3> 
