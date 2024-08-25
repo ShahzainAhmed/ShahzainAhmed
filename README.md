@@ -11,9 +11,6 @@ Hello, I am Shahzain Ahmed!
   <img alt="Coder GIF" height="400" width="700" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" /> 
 </p>
 
-<!--
-**ShahzainAhmed/ShahzainAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 - 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>
 - 📖 I am an <b> Microsoft Certified Educator (MCE)</b> 
 - 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>
@@ -23,9 +20,8 @@ Hello, I am Shahzain Ahmed!
 - 🖥️ I was the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>
 - 👨🏻‍🎨 I was the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
 - 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
-- 🥅 My Goal is to learn and explore more and more about <b> Technology</b>
-- 🔭 I’m currently working as a <b>  Mobile Application Development on Flutter </b>
-- 🌱 I’m trying to improve and polish my skills on <b> Flutter Mobile App Development</b>
+<!--- 🥅 My Goal is to learn and explore more and more about <b> Technology</b>
+- 🌱 I’m trying to improve and polish my skills on <b> Flutter Mobile App Development</b> -->
 
 ### Professional Specialities:
 - 💥 <b> Mobile Application Development: Flutter, Dart </b>
@@ -50,6 +46,8 @@ Hello, I am Shahzain Ahmed!
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
