@@ -1,3 +1,7 @@
+<!--
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+-->
+
 <h1 align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px" style="margin-right: 10px;">
 Hello, I am Shahzain Ahmed! 
