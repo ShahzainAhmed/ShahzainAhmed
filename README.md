@@ -29,7 +29,7 @@
 - 📚 Microsoft Innovative Educator Master Trainer  
 - 🖥️ Former Chair — ACM MUET Student Chapter  
 - 👨🏻‍🎨 Former Graphic Design Head — MLSA Society  
-- 🎨 Former Director of Graphic Design — Developer Student Clubs (2020–2021)  
+- 🎨 Former Director of Graphic Design — GDS Club
 
 <!--
 - 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>
