@@ -21,7 +21,7 @@
 
 <br> <!-- Adds a blank line before the list -->
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently learning on Node.js and MongoDB
 - 🎨 Skilled in Graphic Designing
