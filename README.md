@@ -6,7 +6,7 @@
   <img width="10%" align="left" alt="Github" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
   <img width="10%" align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   
-  Hello, I am Shahzain Ahmed! <br> 
+  Hello, I am Shahzain Ahmed! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <br> 
   Flutter Mobile Application Developer
 </h1>
 
