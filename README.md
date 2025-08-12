@@ -21,9 +21,15 @@
 
 <br> <!-- Adds a blank line before the list -->
 
+🌱 Currently learning Node.js and MongoDB to become a Full-Stack Developer  
+🎨 Skilled in Graphic Designing with strong expertise and creative vision  
+📕 Microsoft Certified Trainer (MCT)  
+📚 Microsoft Innovative Educator (MIE) Master Trainer  
+🖥️ Former Chair — ACM MUET Student Chapter  
+👨🏻‍🎨 Former Graphic Design Head — Microsoft Learn Student Ambassadors Society  
+🎨 Former Director of Graphic Design — Developer Student Clubs (2020–2021)  
 
-
-
+<!--
 - 📕 I am an <b> Microsoft Certified Trainer (MCT)</b>
 - 📖 I am an <b> Microsoft Certified Educator (MCE)</b> 
 - 📚 I am an <b> Microsoft Innovative Educator (MIE) Expert</b>
@@ -32,7 +38,7 @@
 - 🌟 I am an <b> Microsoft Technology Associate (MTA)</b>
 - 🖥️ I was the<b> Chair of Association for Computing Machinery (ACM) MUET Student Chapter - MUET Jamshoro</b>
 - 👨🏻‍🎨 I was the<b> Graphic Design Head at Microsoft Learn Student Ambassadors Society - MUET Jamshoro</b>
-- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> 
+- 🎨 I was the<b> Director Graphic Design at Developer Student Clubs (2020-2021) - MUET Jamshoro</b> -->
 <!--- 🥅 My Goal is to learn and explore more and more about <b> Technology</b>
 - 🌱 I’m trying to improve and polish my skills on <b> Flutter Mobile App Development</b> -->
 
