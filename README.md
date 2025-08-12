@@ -25,8 +25,8 @@
 
 - 🌱 Currently learning Node.js and MongoDB to become a Full-Stack Developer  
 - 🎨 Skilled in Graphic Designing with strong expertise and creative vision  
-- 📕 Microsoft Certified Trainer (MCT)  
-- 📚 Microsoft Innovative Educator (MIE) Master Trainer  
+- 📕 Microsoft Certified Trainer  
+- 📚 Microsoft Innovative Educator Master Trainer  
 - 🖥️ Former Chair — ACM MUET Student Chapter  
 - 👨🏻‍🎨 Former Graphic Design Head — Microsoft Learn Student Ambassadors Society  
 - 🎨 Former Director of Graphic Design — Developer Student Clubs (2020–2021)  
