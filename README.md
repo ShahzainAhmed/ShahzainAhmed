@@ -7,7 +7,7 @@
   <img width="10%" align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   
   Hello, I am Shahzain Ahmed!<br> 
-  ✨ Flutter Mobile Application Developer ⚡
+  ✨&nbsp;&nbsp;&nbsp;Flutter Mobile Application Developer&nbsp;&nbsp;&nbsp;⚡
 </h1>
 
 <!-- <h1 align="center">Hello, I am Shahzain Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
