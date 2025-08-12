@@ -3,8 +3,8 @@
 -->
 
 <h1 align="center" style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <img width="15%" align="left" alt="Github" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-  <img width="15%" align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+  <img width="10%" align="left" alt="Github" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+  <img width="10%" align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   
   Hello, I am Shahzain Ahmed! <br> 
   ✨ Flutter Mobile Application Developer ⚡
